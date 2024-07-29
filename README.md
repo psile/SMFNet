@@ -9,7 +9,7 @@ The detection of infrared and dim-small target has become a challenging and hot 
 ## Results
 
 - PR curve on DAUB and IRDST datasets.
-- We provide the results on [ITDST](./readme/ITDST_results) and [IRDST](./readme/IRDST_results), and you can plot them using Python.
+- We provide the results on [ITSDT-15K](./readme/ITDST_results) and [IRDST](./readme/IRDST_results), and you can plot them using Python.
 
-<img src="/readme/ITSDT_PR.png" width="500px">
-<img src="/readme/IRDST_PR.png" width="500px">
+<img src="/readme/ITSDT_PR.jpg" width="500px">
+<img src="/readme/IRDST_PR.jpg" width="500px">
